@@ -1,0 +1,5 @@
+name: Apollo Codegen Ecommerce Example
+description: 'This project shows how to use TakeShape with Apollo Codegen.'
+categories:
+  - examples
+  - quickstart
